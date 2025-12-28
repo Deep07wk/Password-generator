@@ -33,7 +33,7 @@ body{
     border: 0px;
     font-family: inter;
     font-weight: 500;
-    margin-top: 51px;
+    margin-right: 20px;
 }
 .underline{
     height: 1px;
@@ -69,4 +69,18 @@ body{
     margin-top: 20px;
     text-align: center;
     color: #55F991;
+}
+#length{
+    border-radius: 6px;
+    height: 35px;
+    border: 0 solid white;
+    padding-left: 10px;
+    font-size: 15px;
+    width: 165px;
+    background: #F3F4F6;
+}
+.user{
+    display: flex;
+    align-items: center;
+    margin-top: 51px;
 }
